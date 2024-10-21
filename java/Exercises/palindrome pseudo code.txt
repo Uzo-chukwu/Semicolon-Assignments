@@ -1,0 +1,18 @@
+Stage 1
+
+1. collect 3digit number from user 
+2. calculate if its a palindrome
+3. if it is display it is a palindrome
+4. If it's not display it is not a palindrome
+
+Stage 2
+
+1. Prompt user to enter 3 digit number
+2. Collect the input
+3. Save as number
+4. Calculate palindrome as number/100
+5. Save as firstInt
+6. number % 10
+7. Save as last int
+8. if firstint%lastint = 0 Display number is a palindrome 
+9. if firstint%lastint != 0 Display number is not a palindrome

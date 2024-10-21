@@ -1,0 +1,22 @@
+Stage 1
+
+1. Collect number between 0 and 1000
+2. Extract the individual digits
+3. calculate the sum of the numbers
+4. Display the result
+
+
+Stage 2
+
+1. Prompt user to enter a number between 0 to 1000
+2. Collect input
+3. Save as number
+4. Extract first number as number/100
+5. Save as firstnum
+6. Extract Second number as (number%100)/10
+7. Save as secondNum 
+8. Extract third number as number%10
+9. Save as thirdNum
+10. Sum all three as firstNum+secondNum+thirdNum
+11. Save as sum
+12. display sum
