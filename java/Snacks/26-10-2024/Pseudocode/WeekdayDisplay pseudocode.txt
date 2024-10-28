@@ -1,0 +1,10 @@
+1 Prompt user to enter a number from 1 to 7 
+2 collect input 
+3 save as number 
+4 if number = 1 display Monday
+5 else if number = 2 display Tuesday
+6 else if number = 3 display Wednesday
+7 else if number = 4 display Thursday
+8 else if number = 5 display Friday
+9 else if number = 6 display Saturday
+10 else if number = 7 display Sunday

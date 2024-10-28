@@ -1,0 +1,12 @@
+1 Prompt user to enter 2 decimal numbers
+2 Collect input
+3 Save as firstnumber and secondnumber
+4 calculate firstnumber % 1
+5 Save result as firstfloat
+6 calculate secondnumber % 1
+7 Save result as secondfloat
+8 Round firstfloat and second float to 3 decimal places
+9 If firstfloat = secondfloat display they are the same
+10Else display they are different
+
+

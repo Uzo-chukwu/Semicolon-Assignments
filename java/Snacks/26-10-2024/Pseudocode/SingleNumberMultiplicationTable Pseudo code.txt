@@ -1,0 +1,11 @@
+1. Prompt user to enter The number
+2. Collect the input
+3. Save as number
+4. Prompt User to enter number the number of terms
+5. Collect the input
+6. Save as numberOfTerms
+7. initialize counter to 0
+8. Create a while loop to calculate number * counter numberOfTerms times
+9. Display the result
+9. do counter + 1
+

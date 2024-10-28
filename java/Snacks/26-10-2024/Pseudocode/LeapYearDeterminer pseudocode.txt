@@ -1,0 +1,7 @@
+1 Prompt user to enter a year
+2 Collect input
+3 Save as year
+4 Do year%4
+5 Save result as leapyear
+6 If leapyear = 0 display year is a leep year
+7 else display year is not a leap year

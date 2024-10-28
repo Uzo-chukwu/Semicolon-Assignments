@@ -14,7 +14,7 @@ b++;
 
 
 
-
-
  }
 }
+
+Two numbera are entered throu   

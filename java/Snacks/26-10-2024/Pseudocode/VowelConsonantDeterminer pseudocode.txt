@@ -1,0 +1,18 @@
+
+2. Start infinite while loop
+1. Prompt user to enter an alphabet
+3. Collect user input
+4. save as alphabet
+4. Calculate input length
+5. If input length is not 1
+    - Display "Wrong input. Please enter a single alphabet."
+    - Skip to next iteration
+6. If input is "A", "E", "I", "O", "U", "a", "e", "i", "o", or "u"
+    - Display "You entered a vowel"
+7. Else
+    - Display "You entered a consonant"
+8. Prompt user "Do you want to continue? (0 to quit, 1 to continue)
+9. Collect user response
+10. If user response is 0
+    - Exit loop
+11. End infinite loop

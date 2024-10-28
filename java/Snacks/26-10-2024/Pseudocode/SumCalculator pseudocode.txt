@@ -1,0 +1,12 @@
+1. Initialize iteration to 0
+2. Do while iteration != 0
+3. Prompt user to "Enter 2 numbers"
+4. collect inputs
+5. save as firstnumber 
+6. save as secondnumber 
+7. Calculate sum = firstNumber + secondNumber
+8. Display sum result (e.g., "a + b = sum")
+9. Prompt user "Do you want to perform another addition? (1 to continue, 0 to quit)"
+10. Collect user response
+11. Save response as iteration
+12. End do-while loop
