@@ -1,0 +1,11 @@
+1. Set variable i to 1
+2. Start outer for loop: Repeat while i is less than or equal to 9
+3. Set variable j to 1
+4. Start inner for loop: Repeat while j is less than or equal to 9
+5. Calculate j * i
+6. Display j * i in the format "j * i = result" with a tab after each expression
+7. Increment j by 1
+8. End inner for loop
+9. Move to the next line
+10. Increment i by 1
+11. End outer for loop

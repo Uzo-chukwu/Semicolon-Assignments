@@ -1,0 +1,20 @@
+1. Prompt user to enter the coefficient a (coefficient of x^2)
+2. Collect input
+3. Save input as a
+4. Prompt user to enter the coefficient b (coefficient of x)
+5. Collect input
+6. Save input as b
+7. Prompt user to enter the constant c
+8. Collect input
+9. Save input as c
+10. Calculate b * b - 4 * a * c
+11. Save result as discriminant
+12. If discriminant > 0
+13. Calculate (-b + sqrt(discriminant)) / (2 * a) and save as root1
+14. Calculate (-b - sqrt(discriminant)) / (2 * a) and save as root2
+15. Display "The roots are" root1 "and" root2
+16. Else if discriminant == 0
+17. Calculate -b / (2 * a) and save as root
+18. Display "The root is" root
+19. Else
+20. Display "The equation has no real roots"

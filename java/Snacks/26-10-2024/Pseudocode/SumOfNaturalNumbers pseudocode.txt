@@ -1,0 +1,8 @@
+1. Initialize a variable sum to 0
+2. Set n to 10
+3. Set i to 1
+4. Repeat while i is less than or equal to n
+5. Add i to sum
+6. Increment i by 1
+7. End loop
+8. Display sum
