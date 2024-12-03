@@ -10,25 +10,44 @@ public class StudentGradingApp{
 	System.out.println("How many subjects do they offer ");
 	int numberOfSubjects = input.nextInt();
 
-	int[][] studentsScoresheet = new int[numberOfStudents][numberOfSubjects];
+	double[][] studentsScoresheet = compileScore(numberOfStudents,numberOfSubjects);
+
 	
-	int student;
-	int course;
+
+	}
+
+	private static double[][] compileScores(int numberOfStudents,int numberOfSubjects){
+
+		Scanner input = new Scanner(System.in);
+
+		double[][] studentsScoresheet = new double[numberOfStudents][numberOfSubjects];
 	
-	for(int count = 0; count < numberOfStudents; count++){
-		student = count + 1;
-		for(int subject = 0; subject < numberOfSubjects; subject++){
-			course = subject + 1;
-			System.out.println("Enter student"+student" score in ")
+		int student;
+		int course;
+		double score; 
+	
+		for(int studier = 0; studier < numberOfStudents; studier++){
+			student = studier + 1;
+			for(int subject = 0; subject < numberOfSubjects; subject++){
+				course = subject + 1;
+				System.out.println("Enter student"+student+" score in subject"+course);
+				score = input.nextDouble();
+				if(score >= 0 && score <= 100){
+					studentsScoresheet[studier][subject] = score;
+				}else{
+					System.out.println("Wrong score input enter again:");
+					subject--;
+					continue;
+				     }
+			
+			 
 		
+			}
+	
 		}
-	
+		return studentsScoresheet;
 	}
-
-
-
-	}
+	private static double[] calculateStudentsTotals(studentsScoresheet) 
 
 	
-
 }
