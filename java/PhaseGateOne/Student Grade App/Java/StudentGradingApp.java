@@ -31,7 +31,6 @@ public class StudentGradingApp{
 		int course;
 		double score; 
 		double total ;
-		double average = 0;
 		int scoreIndex = numberOfSubjects ;
 		int averageIndex = numberOfSubjects + 1;
 		
@@ -59,7 +58,7 @@ public class StudentGradingApp{
 
 				}else{
 					studentsScoresheet[studier][scoreIndex] = total;
-					studentsScoresheet[studier][averageIndex] = average;
+					studentsScoresheet[studier][averageIndex] = total/numberOfSubjects;
 				}
 
 							 
@@ -73,31 +72,33 @@ public class StudentGradingApp{
 	}
 	
 	private static void displayScoreSheet(double [][] studentsScoresheet, int numberOfStudents, int numberOfSubjects){
-		System.out.println("======================================================================================");
-		for(int header = 0; header < numberOfSubjects + 3; header++){
+		System.out.println("=========================================================================");
+		for(int header = 0; header <= numberOfSubjects + 3; header++){
 			if(header < 1) System.out.print("STUDENT     ");
 			if(header > 0 && header <= numberOfSubjects ) System.out.print("SUB"+header+"   ");
-			if(header == numberOfSubjects + 1) System.out.print("TOT   ");
+			if(header == numberOfSubjects + 1) System.out.print("TOT     ");
 			if(header == numberOfSubjects + 2) System.out.print("AVE   ");
-			if(header == numberOfSubjects + 3) System.out.println("POS   ");
+			if(header == numberOfSubjects + 3) System.out.println("POS");
 		}
-		System.out.println("====================================================");
+		System.out.println("============================================================");
 		
 		
 		
 		for(int column=1; column <= numberOfStudents ; column++){
-			for(int row = 0; row <= numberOfSubjects + 2; row++){
+			for(int row = 0; row < numberOfSubjects + 2; row++){
 				if(row == 0){
-					System.out.print("Student "+column+"     "+studentsScoresheet[(column-1)][row]+"   ");
+					System.out.print("Student "+column+"   "+studentsScoresheet[(column-1)][row]+"   ");
 				}else{
 					System.out.print(studentsScoresheet[(column-1)][row]+"   s");
 				}
 			
 			}
-			System.out.print("");
+			System.out.println();
 		
 		}
 
 	}
+	
+	private static int[] calculatePosition(double[][] )
 	
 }
