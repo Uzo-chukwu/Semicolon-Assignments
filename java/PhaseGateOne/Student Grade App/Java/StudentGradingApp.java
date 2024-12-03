@@ -16,7 +16,7 @@ public class StudentGradingApp{
 
 
 	double[][] studentsScoresheet = compileScores(numberOfStudents,numberOfSubjects);
-
+	displayScoreSheet(studentsScoresheet, numberOfStudents, numberOfSubjects);
 	
 
 	}
@@ -77,22 +77,24 @@ public class StudentGradingApp{
 		for(int header = 0; header < numberOfSubjects + 3; header++){
 			if(header < 1) System.out.print("STUDENT     ");
 			if(header > 0 && header <= numberOfSubjects ) System.out.print("SUB"+header+"   ");
-			if(header > numberOfSubjects) System.out.print("TOT   ");
-			if(header > numberOfSubjects + 1) System.out.print("AVE   ");
-			if(header > numberOfSubjects + 2) System.out.println("POS   ");
+			if(header == numberOfSubjects + 1) System.out.print("TOT   ");
+			if(header == numberOfSubjects + 2) System.out.print("AVE   ");
+			if(header == numberOfSubjects + 3) System.out.println("POS   ");
 		}
-		System.out.println("======================================================================================")
+		System.out.println("====================================================");
 		
-		System.out.println()	
 		
-		for(int column=1; column <= numberOfStudents; column++){
-			for(row = 0; row <= numberOfSubject; row++){
+		
+		for(int column=1; column <= numberOfStudents ; column++){
+			for(int row = 0; row <= numberOfSubjects + 2; row++){
 				if(row == 0){
-					System.out.print("Student "+column+"     ")
+					System.out.print("Student "+column+"     "+studentsScoresheet[(column-1)][row]+"   ");
+				}else{
+					System.out.print(studentsScoresheet[(column-1)][row]+"   s");
 				}
 			
 			}
-
+			System.out.print("");
 		
 		}
 
