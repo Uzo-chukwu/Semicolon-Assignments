@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class MbtiPersonalityTest {
+public class    {
 
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
