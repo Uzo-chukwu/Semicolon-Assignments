@@ -1,0 +1,23 @@
+Stage 1
+
+1. Collect users weight in kilograme
+2. Collect users height in meters
+3. Calculate bmi
+4. Display bmi result
+5. display bmi category
+
+Stage 2
+
+1. Prompt user to enter weight in kilograms
+2. collect input 
+3. Save as weigt
+4. Prompt user to enter height in meters 
+5. Collect input
+6. Save as height
+7. Calculate bmi as weight /(height*height)
+8. Save result as bmi
+9.Display bmi
+10. if bmi is < 18.5 display you are under weight
+11. if bmi is >18.5 && > 25 display your weight is normal
+12. if bmi is > 25 & < 30 display you are overweight
+13. if bmi is > 30 display you are obese 

@@ -1,0 +1,20 @@
+stage 1 
+1.collect 5 numbers from user 
+2.determine the number of negative positive and zero numbers 
+3.store them
+4.display result
+
+
+stage 2 
+1. Prompt user to enter 5 numbers
+2. save as num1,num2,num3,num4 and num5
+3. create variable negative
+4. create variable positive
+5. create variable zero
+6. If num1 > 0 add 1 to positive 
+7. if num1 < 0 add 1 to negative
+8. if num1 = 0 add 1 to zero
+9. do step 6,7,8 to num2, num3, num4 and num5
+10. display positive
+11. display negative
+12. display zero

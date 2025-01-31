@@ -1,0 +1,14 @@
+Stage 1
+
+1. Collect value for feet
+2. convert to meters 
+3. Display result
+
+Stage 2
+
+1. Prompt user to enter number in feet
+2. Collect input
+3. Save as feet
+4. Convert to meter as feet * 0.305
+5. Save result as meters
+6. Display meters
