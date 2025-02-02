@@ -1,12 +1,13 @@
 package diaryApp;
 
-import java.time.LocalDate;
+
+import java.time.LocalDateTime;
 
 public class Entry {
     private String title;
     private String body;
     private int id;
-    private LocalDate dateCreated;
+    private LocalDateTime dateCreated = LocalDateTime.now();
 
     public Entry(String title, String body, int id) {
         this.title = title;
@@ -39,11 +40,13 @@ public class Entry {
         this.id = id;
     }
 
-    public LocalDate getDateCreated() {
+    public LocalDateTime getDateCreated() {
         return dateCreated;
     }
-
-    public void setDateCreated(LocalDate dateCreated) {
-        this.dateCreated = dateCreated;
+    @Override
+    public String toString() {
+        return title + "\n" + body;
     }
+
+
 }
