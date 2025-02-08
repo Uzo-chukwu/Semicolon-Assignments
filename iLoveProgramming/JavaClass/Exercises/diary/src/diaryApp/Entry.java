@@ -1,13 +1,14 @@
 package diaryApp;
 
 
+import java.io.Serializable;
 import java.time.LocalDateTime;
 
-public class Entry {
+public class Entry implements Serializable {
     private String title;
     private String body;
     private int id;
-    private LocalDateTime dateCreated = LocalDateTime.now();
+    private LocalDateTime dateCreated = LocalDateTime.now().withSecond(0).withNano(0) ;
 
     public Entry(String title, String body, int id) {
         this.title = title;
@@ -45,7 +46,8 @@ public class Entry {
     }
     @Override
     public String toString() {
-        return title + "\n" + body;
+        return title + "\n" + body + "\n" +"Time created:"+ dateCreated;
+
     }
 
 

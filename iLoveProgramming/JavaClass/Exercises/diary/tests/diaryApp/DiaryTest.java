@@ -32,14 +32,14 @@ public class DiaryTest {
         assertThrows(IllegalArgumentException.class, () -> diary.createEntry(title, body));
     }
     @Test
-    public void testThat_EntrycanBeFound_ById() {
+    public void testThat_EntrycanBeFound_ById(){
         String title = "title";
         String body = "body";
-        assertNull(diary.findEntryById(1));
         diary.createEntry(title, body);
         diary.createEntry("another title", "another body");
+        diary.createEntry(title, "another body");
         diary.findEntryById(1);
-        assertEquals(diary.findEntryById(2), "another title");
+        assertEquals(diary.findEntryById(1), "title");
     }
     @Test
     public void testThat_WrongId_ThrowsException_WhenFindingEntryById() {
@@ -47,8 +47,6 @@ public class DiaryTest {
         String body = "body";
         diary.createEntry(title, body);
         diary.createEntry("another title", "another body");
-
-//        assertNotNull(diary.findEntryById(2));
         assertThrows(IllegalArgumentException.class, () -> diary.findEntryById(-1));
     }
 
@@ -61,7 +59,7 @@ public class DiaryTest {
         diary.createEntry("another title", "another body");
         diary.createEntry(title, "another body");
         assertEquals(diary.countEntries(),3);
-        diary.deleteEntry(3);
+        diary.deleteEntry(2);
         assertEquals(diary.countEntries(), 2);
 
     }
@@ -84,7 +82,7 @@ public class DiaryTest {
         String body = "body";
         diary.createEntry(title, body);
         diary.updateEntry(1,"another title", "another body");
-        assertNotNull(diary.findEntryById(1));
+        assertEquals(diary.findEntryById(1),"another title");
     }
     @Test
     public void testThat_WrongId_WhenUpdatingEntry_ThrowsException() {
@@ -95,6 +93,8 @@ public class DiaryTest {
         String newBody = "another body";
         assertThrows(IllegalArgumentException.class, () -> diary.updateEntry(12,newTitle,newBody));
     }
+
+
 
     }
 
