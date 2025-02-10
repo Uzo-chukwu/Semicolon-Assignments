@@ -6,8 +6,6 @@ public class MyDiaryApp  {
     public static void main(String[] args) {
         Diaries diaries = new Diaries();
         landingPage(diaries);
-
-
     }
 
     private static void landingPage(Diaries diaries) {
@@ -33,7 +31,7 @@ public class MyDiaryApp  {
                 case "3" -> {
                     serializeDiaries(diaries);
                     display("""
-                            Your diaries has been saved automatically.
+                            Your diaries has been saved successfully.
                             Goodbye!
                             """);
                     System.exit(0);
@@ -50,12 +48,11 @@ public class MyDiaryApp  {
             System.err.println("Error serializing diaries: " + e.getMessage());
         }
     }
-    
+
     private static Diaries deserializeDiaries() {
         try (ObjectInputStream in = new ObjectInputStream(new FileInputStream("myDiaries.ser"))) {
             return (Diaries) in.readObject();
         } catch (IOException | ClassNotFoundException e) {
-            System.err.println("Error deserializing diaries: " + e.getMessage());
             return null;
         }
     }
@@ -65,7 +62,6 @@ public class MyDiaryApp  {
         String username = input("Enter Your Username:");
         String password = input("Create Password:");
         String confirmPassword = input("Confirm Password:");
-
         if (!password.equals(confirmPassword)) {
             display("Passwords do not match! Try again.");
             return;

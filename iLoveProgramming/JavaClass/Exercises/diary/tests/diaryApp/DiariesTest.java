@@ -2,17 +2,21 @@ import diaryApp.Diaries;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
-import static org.junit.jupiter.api.Assertions.assertEquals;
+import static org.junit.jupiter.api.Assertions.*;
 
 public class DiariesTest {
-    @BeforeEach
-    void setUp() {
-        Diaries diaries = new Diaries();
-    }
+
     @Test
     public void testThat_DiaryCanBeCreated() {
-        assertEquals();
-
+        Diaries diaries = new Diaries();
+        diaries.createDiary("UserName",  "Password");
+       assertNotNull( diaries.findDiaryByUserName("UserName",  "Password"));
+    }
+    @Test
+    public void testThat_DiaryCanBeFound() {
+        Diaries diaries = new Diaries();
+        diaries.createDiary("UserName",  "Password");
+        assertNotNull( diaries.findDiaryByUserName("UserName",  "Password"));
     }
 
 

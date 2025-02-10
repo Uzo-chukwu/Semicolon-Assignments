@@ -1,7 +1,5 @@
 package diaryApp;
 
-import java.io.FileOutputStream;
-import java.io.ObjectOutputStream;
 import java.io.Serializable;
 import java.util.ArrayList;
 
@@ -9,7 +7,8 @@ public class Diaries implements Serializable {
     private ArrayList<Diary> diaries = new ArrayList<>();
 
     public void createDiary(String UserName, String Password) {
-        if (UserName.trim().isEmpty() || Password.trim().isEmpty()) {
+        boolean isBlank = (UserName.trim().isEmpty() || Password.trim().isEmpty());
+        if (isBlank) {
             throw new IllegalArgumentException("Username or Password cannot be empty");
         }
         diaries.add(new Diary(UserName, Password));
