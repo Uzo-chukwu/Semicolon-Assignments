@@ -1,4 +1,7 @@
-package PACKAGE_NAME;
+public class LivingThings extends Matter {
 
-public class LivingThings {
+
+    public LivingThings(String name) {
+        super(name);
+    }
 }

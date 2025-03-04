@@ -1,4 +1,5 @@
-package PACKAGE_NAME;
-
-public class Invertebrate {
+public class Invertebrate extends Animal{
+    public Invertebrate(String name, int numberOfHeads) {
+        super(name, numberOfHeads);
+    }
 }

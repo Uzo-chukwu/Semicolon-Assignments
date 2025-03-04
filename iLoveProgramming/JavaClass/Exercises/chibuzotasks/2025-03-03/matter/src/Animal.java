@@ -1,6 +1,6 @@
-public class Animals extends LivingThings {
+public class Animal extends LivingThings {
     private int numberOfHeads;
-    public Animals(String name, int numberOfHeads) {
+    public Animal(String name, int numberOfHeads) {
         super(name);
         this.numberOfHeads = numberOfHeads;
 
