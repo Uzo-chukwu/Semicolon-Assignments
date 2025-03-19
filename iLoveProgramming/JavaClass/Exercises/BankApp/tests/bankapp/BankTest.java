@@ -71,7 +71,7 @@ public class BankTest {
         bank.addAccount(account2);
         bank.deposit(12344, 2000);
         bank.maketranser(12344,12345,2222,100);
-                                                      assertEquals(1900, account2.checkBalance());
+        assertEquals(1900, account2.checkBalance());
         assertEquals(100, account1.checkBalance());
     }
     @Test
