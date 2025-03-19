@@ -1,0 +1,12 @@
+1. Prompt user to enter citizen 1 earning
+2. Collect input
+3. Save input as earning
+4. If earning <= 30000 then
+5. Calculate earning * 0.15 and save as tax
+6. Display "citizen 1 tax is" tax
+7. Else
+8. Calculate earning * 0.2 and save as tax
+9. Display "citizen 1 tax is" tax
+10. Increment citizen counter by 1
+11. Repeat steps 1 to 9 for citizen 2
+12. Repeat steps 1 to 9 for citizen 3

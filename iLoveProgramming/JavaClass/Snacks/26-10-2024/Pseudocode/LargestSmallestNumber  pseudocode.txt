@@ -1,0 +1,18 @@
+1. Declare largest = min integer value
+2. Declare smallest = max integer value
+3. Create while loop
+4. Display "Enter a number or enter -1 to quit"
+5. Collect input
+6. Save as number
+7. If number = -1 then
+8. Break loop
+9. If number > largest then
+10. Update largest = number
+11. If number < smallest then
+12. Update smallest = number
+13. End while loop
+14. If largest != min integer value and smallest != max integer value then
+15. Display "The smallest number is " + smallest
+16. Display "The largest number is " + largest
+17. Else
+18. Display "No valid input entered"

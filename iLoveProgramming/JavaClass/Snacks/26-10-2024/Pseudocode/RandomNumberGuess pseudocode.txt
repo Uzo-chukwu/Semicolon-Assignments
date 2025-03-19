@@ -1,0 +1,14 @@
+1. Start infinite loop
+2. Generate random number between 1 and 10
+3. Store step 3 in variable random
+4. Prompt user to "pick a number from 1 to 10"
+5. Collect user input
+6. Save as number
+7. If number > random then
+8. Display "Too high, try again"
+9. Else if number < random then
+10. Display "Too low, try again"
+11. Else if number = random then
+12. Display "You got it right"
+13. Exit loop
+14. End infinite loop

@@ -1,0 +1,364 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0e7558d7-7323-445c-a355-dd78e7666e1a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../TDD snacks/BikeTDDsnacks/AutomaticBike.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/BmiCalculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/ContinousCalculator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/Exercises/1-11-2024/GreetingSwitch.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/Exercises/10-22-2024/AmericanFlag.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/Exercises/10-22-2024/AmericanFlag.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/Exercises/10-22-2024/AreaOfAPolygon.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/Exercises/10-22-2024/BinaryToDecimalConverter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/Exercises/10-22-2024/BmiCalculator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/Exercises/10-22-2024/BmiCalculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/Exercises/10-22-2024/DecimalToBinaryConverter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/Exercises/10-22-2024/DisplaySystemTime.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/Exercises/10-22-2024/EnergyCalculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/Exercises/10-22-2024/Face.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/Exercises/10-22-2024/Face.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/Exercises/10-22-2024/GetProperties.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/Exercises/10-22-2024/PoundsToKiloConverter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/Exercises/10-22-2024/RunwayLenghtCalculator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/Exercises/10-22-2024/RunwayLenghtCalculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/Exercises/24-10-2024/GreatestNumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/Exercises/24-10-2024/GreatestNumber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/Exercises/24-10-2024/InvestmentReturnCalculator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/Exercises/24-10-2024/InvestmentReturnCalculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/Exercises/24-10-2024/LastDigitDeterminer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/Exercises/24-10-2024/NegativePositiveNeutralNumberChecker.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/Exercises/24-10-2024/OddAndEvenNumber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/Exercises/24-10-2024/SmartCalendar.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/Exercises/24-10-2024/SmartCalendar.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/Exercises/26-10-2024/EarningCalculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/Exercises/26-10-2024/TimeCalculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/Exercises/26-11-2024 methods/PrimeNumbers.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/Exercises/26-11-2024 methods/PrimeNumbers.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/Exercises/28-10-2024/EfficiencyCalculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/Exercises/28-10-2024/EqualNumbersChecker.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/Exercises/28-10-2024/EqualNumbersCheckerLoop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/Exercises/28-10-2024/MaximumNumber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/Exercises/28-10-2024/PositiveNegativeZeroNumber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/Exercises/28-10-2024/StringToIntegerConverter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/Exercises/29-10-2024/AlphabetPattern.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/Exercises/29-10-2024/LibraryFineCalculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/Exercises/29-10-2024/NumberOrderDeterminer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/Exercises/30-10-2024/Greater.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/Exercises/30-10-2024/NumberGuessingGame.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/Exercises/30-10-2024/NumberGuessingGameLoop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/Exercises/31-10-2024/For loop/TaskEight.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/Exercises/31-10-2024/For loop/TaskFive.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/Exercises/31-10-2024/For loop/TaskFour.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/Exercises/31-10-2024/For loop/TaskFour.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/Exercises/31-10-2024/For loop/TaskNine.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/Exercises/31-10-2024/For loop/TaskOne.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/Exercises/31-10-2024/For loop/TaskSeven.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/Exercises/31-10-2024/For loop/TaskSix.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/Exercises/31-10-2024/For loop/TaskThree.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/Exercises/31-10-2024/For loop/TaskTwo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/Exercises/31-10-2024/While loop/TaskEight.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/Exercises/31-10-2024/While loop/TaskFiveWhile.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/Exercises/31-10-2024/While loop/TaskFour.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/Exercises/31-10-2024/While loop/TaskNine.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/Exercises/31-10-2024/While loop/TaskOneWhile.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/Exercises/31-10-2024/While loop/TaskSeven.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/Exercises/31-10-2024/While loop/TaskSix.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/Exercises/31-10-2024/While loop/TaskThreeWhile.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/Exercises/31-10-2024/While loop/TaskTwoWhile.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/Exercises/4-11-2024/AsteriskPattern.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/Exercises/4-11-2024/GradeDeterminer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/Exercises/4-11-2024/GradeDeterminerSentinelLoop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/Exercises/4-11-2024/GradeDeterminerSwitch.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/Exercises/4-11-2024/GradeDeterminerWhileLoop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/Exercises/4-11-2024/NumberPatternDouble.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/Exercises/8-11-2024/AgeCategory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/Exercises/8-11-2024/AsterisksRectangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/Exercises/8-11-2024/ButterflyPattern.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/Exercises/8-11-2024/Choice.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/Exercises/8-11-2024/CollegeLevel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/Exercises/8-11-2024/Department.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/Exercises/8-11-2024/Dessert.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/Exercises/8-11-2024/EligibilityIndex.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/Exercises/8-11-2024/EvenInBetween.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/Exercises/8-11-2024/MedalDistribution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/Exercises/8-11-2024/NaturalNumbersReverse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/Exercises/8-11-2024/NestedShapet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/Exercises/8-11-2024/NumberPatternRhombus.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/Exercises/8-11-2024/NumberPatternTri.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/Exercises/8-11-2024/PerfectNumberChecker.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/Exercises/8-11-2024/RangeDivision.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/Exercises/8-11-2024/ReverseAlphabet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/Exercises/8-11-2024/ReverseMultiplicationTable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/Exercises/8-11-2024/TaxBracket.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/Exercises/8-11-2024/Temperature.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/Exercises/8-11-2024/VPattern.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/Exercises/8-11-2024/Weekday.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/Exercises/8-11-2024/XPattern.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/Exercises/A.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/Exercises/A.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/Exercises/Arithmetic.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/Exercises/Arithmetic.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/Exercises/Az.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/Exercises/Az.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/Exercises/BMI.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/Exercises/BMI.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/Exercises/Bmi Pseudocode.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/Exercises/ComparingIntegers.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/Exercises/ComparingIntegers.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/Exercises/Converter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/Exercises/Converter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/Exercises/Display.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/Exercises/Display.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/Exercises/DisplaySum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/Exercises/DisplaySum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/Exercises/Driving.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/Exercises/Driving.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/Exercises/Greeting.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/Exercises/Greeting.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/Exercises/Greetings.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/Exercises/Hello.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/Exercises/Hello.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/Exercises/HelloWorld.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/Exercises/HelloWorld.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/Exercises/Interest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/Exercises/Interest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/Exercises/Kilo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/Exercises/Largest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/Exercises/Largest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/Exercises/Love.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/Exercises/Love.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/Exercises/Mr Femi's Task/PangramChecker/PangramChecker.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/Exercises/Mr Femi's Task/PangramChecker/PangramChecker.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/Exercises/Mr Femi's Task/PangramChecker/TestPangramChecker.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/Exercises/Mr Femi's Task/PangramChecker/TestPangramChecker.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/Exercises/Mr Femi's Task/PangramChecker/apiguardian-api-1.1.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/Exercises/Mr Femi's Task/PangramChecker/junit-jupiter-api-5.11.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/Exercises/Mr Femi's Task/PangramChecker/junit-platform-commons-1.11.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/Exercises/Mr Femi's Task/PangramChecker/junit-platform-console-standalone-1.11.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/Exercises/Mr Femi's Task/PangramChecker/opentest4j-1.3.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/Exercises/Multiple.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/Exercises/Multiple.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/Exercises/NumberPrime.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/Exercises/Pattern.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/Exercises/Pattern.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/Exercises/Practice.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/Exercises/Practice.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/Exercises/PrimeNum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/Exercises/PrimeNum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/Exercises/PrimeNumber.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/Exercises/Prism.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/Exercises/Prism.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/Exercises/Pyramid.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/Exercises/Pyramid.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/Exercises/Quiz tasks/DiscountCalculationSystem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/Exercises/Quiz tasks/MultiplicationTable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/Exercises/Quiz tasks/StudentGrade.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/Exercises/Sum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/Exercises/Sum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/Exercises/SumOfDigits Pseudo code.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/Exercises/SumOfDigits.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/Exercises/SumOfDigits.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/Exercises/SumUp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/Exercises/SumUp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/Exercises/Tables.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/Exercises/Tables.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/Exercises/TenMillion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/Exercises/TenMillion.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/Exercises/Username.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/Exercises/Username.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/Exercises/Value Pseudocode.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/Exercises/Value.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/Exercises/Value.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/Exercises/Welcome.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/Exercises/Welcome.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/Exercises/WelcomeToJava.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/Exercises/WelcomeToJava.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/Exercises/bmiTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/Exercises/bmiTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/Exercises/kilo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/Exercises/meterConverter pseudo code.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/Exercises/meterConverter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/Exercises/palindrome pseudo code.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/Exercises/palindrome.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/Exercises/palindrome.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/Exercises/prompt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/Exercises/prompt.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/PhaseGateOne/CreditCardValidator/JAVA/CreditCardValidator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/PhaseGateOne/CreditCardValidator/JAVA/CreditCardValidator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/PhaseGateOne/CreditCardValidator/JAVA/TestCreditCardValiidator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/PhaseGateOne/CreditCardValidator/JAVA/apiguardian-api-1.1.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/PhaseGateOne/CreditCardValidator/JAVA/junit-jupiter-api-5.11.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/PhaseGateOne/CreditCardValidator/JAVA/junit-platform-commons-1.11.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/PhaseGateOne/CreditCardValidator/JAVA/junit-platform-console-standalone-1.11.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/PhaseGateOne/CreditCardValidator/JAVA/opentest4j-1.3.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/PhaseGateOne/CreditCardValidator/PYTHON/credit_card_validator.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/PhaseGateOne/Menstrual App/java/MenstrualCycleCalculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/PhaseGateOne/Menstrual App/python/Menstrual_app.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/PhaseGateOne/PhonebookApp/Java/PhoneBookApp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/PhaseGateOne/PhonebookApp/Python/phonebook_app.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/PhaseGateOne/Student Grade App/Java/StudentGradingApp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/PhaseGateOne/oldSnacks/java/CheckoutApp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/PhaseGateOne/oldSnacks/java/MbtiPersonalityTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/PhaseGateOne/oldSnacks/python/checkout.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/PhaseGateOne/oldSnacks/python/pizza_app.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/Snacks/1-11-2024/Nokia3310Sample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/Snacks/1-11-2024/Nokia3310SampleOne.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/Snacks/14-11-2024/ArrayAverage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/Snacks/14-11-2024/ArrayIndexFinder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/Snacks/14-11-2024/ArraySum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/Snacks/14-11-2024/ArrayTestIfValueIsPresent.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/Snacks/16-11-2024/DuplicateNumbersInArrayFinder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/Snacks/16-11-2024/DuplicateNumbersInArrayFinder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/Snacks/16-11-2024/ElementInAnArrayFinder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/Snacks/16-11-2024/LargestNumberInAnArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/Snacks/16-11-2024/MergedArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/Snacks/16-11-2024/ReverseArrary.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/Snacks/16-11-2024/SmallestNumberInAnArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/Snacks/16-11-2024/SumOfAnArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/Snacks/2-11-2024/Comparator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/Snacks/2-11-2024/CreditLimitCalculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/Snacks/2-11-2024/Cryptography.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/Snacks/2-11-2024/DistanceBetweenPoints.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/Snacks/2-11-2024/GasMileage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/Snacks/2-11-2024/Images/Screenshot 2024-11-04 063847.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/Snacks/2-11-2024/Images/Screenshot 2024-11-04 064447.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/Snacks/2-11-2024/Images/Screenshot 2024-11-04 064921.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/Snacks/2-11-2024/Images/Screenshot 2024-11-04 065328.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/Snacks/2-11-2024/Images/Screenshot 2024-11-04 070059.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/Snacks/2-11-2024/Images/Screenshot 2024-11-04 071300.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/Snacks/2-11-2024/Images/Screenshot 2024-11-04 072021.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/Snacks/2-11-2024/Images/Screenshot 2024-11-04 073252.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/Snacks/2-11-2024/Images/Screenshot 2024-11-04 073631.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/Snacks/2-11-2024/LargestNumberFinder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/Snacks/2-11-2024/SalesCommissionCalculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/Snacks/2-11-2024/TaxCalculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/Snacks/2-11-2024/XFinder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/Snacks/20-10-2024/BarChart.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/Snacks/20-10-2024/ContinousCalculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/Snacks/20-10-2024/LargestSmallestNumber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/Snacks/20-10-2024/NumberCounter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/Snacks/20-10-2024/PowerCalculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/Snacks/20-10-2024/PrintExponents.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/Snacks/20-10-2024/SumOfNaturalNumbers.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/Snacks/23-11-2024 Array and function snacks/Kata.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/Snacks/23-11-2024 Array and function snacks/Kata.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/Snacks/23-11-2024 Array and function snacks/kata.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/Snacks/26-10-2024/AsteriskPattern.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/Snacks/26-10-2024/FloatingNumberCalculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/Snacks/26-10-2024/Images/Screenshot 2024-10-26 191622.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/Snacks/26-10-2024/Images/Screenshot 2024-10-27 062335.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/Snacks/26-10-2024/Images/Screenshot 2024-10-27 074215.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/Snacks/26-10-2024/Images/Screenshot 2024-10-28 034655.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/Snacks/26-10-2024/Images/Screenshot 2024-10-28 040843.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/Snacks/26-10-2024/Images/Screenshot 2024-10-28 041745.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/Snacks/26-10-2024/Images/Screenshot 2024-10-28 042444.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/Snacks/26-10-2024/Images/Screenshot 2024-10-28 045211.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/Snacks/26-10-2024/Images/Screenshot 2024-10-29 025714.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/Snacks/26-10-2024/Images/Screenshot 2024-10-29 031745.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/Snacks/26-10-2024/Images/Screenshot 2024-10-29 032948.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/Snacks/26-10-2024/Images/Screenshot 2024-10-29 082054.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/Snacks/26-10-2024/LargestSmallestNumber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/Snacks/26-10-2024/LeapYearDeterminer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/Snacks/26-10-2024/MultiplicationTable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/Snacks/26-10-2024/PatternDisplay.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/Snacks/26-10-2024/Pseudocode/FloatingNumberCalculator pseudocode.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/Snacks/26-10-2024/Pseudocode/LargestSmallestNumber  pseudocode.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/Snacks/26-10-2024/Pseudocode/LeapYearDeterminer pseudocode.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/Snacks/26-10-2024/Pseudocode/RandomNumberGuess pseudocode.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/Snacks/26-10-2024/Pseudocode/SingleNumberMultiplicationTable Pseudo code.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/Snacks/26-10-2024/Pseudocode/SumCalculator pseudocode.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/Snacks/26-10-2024/Pseudocode/SumOfNaturalNumbers pseudocode.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/Snacks/26-10-2024/Pseudocode/Tax Calculator pseudocode.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/Snacks/26-10-2024/Pseudocode/VowelConsonantDeterminer pseudocode.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/Snacks/26-10-2024/Pseudocode/WeekdayDisplay pseudocode.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/Snacks/26-10-2024/Pseudocode/multiplication table pseudocode.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/Snacks/26-10-2024/Pseudocode/quadratic equation pseudocode.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/Snacks/26-10-2024/QuadraticEquationSolver.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/Snacks/26-10-2024/RandomNumberGuess.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/Snacks/26-10-2024/SingleNumberMultiplicationTable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/Snacks/26-10-2024/SumCalculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/Snacks/26-10-2024/SumOfNaturalNumbers.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/Snacks/26-10-2024/TaxCalculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/Snacks/26-10-2024/VowelConsonantDeterminer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/Snacks/26-10-2024/WeekdayDisplay.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/Snacks/30-11-2024 Three Projects/CheckoutApp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/Snacks/30-11-2024 Three Projects/MenstrualCycleCalculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/Snacks/30-11-2024 Three Projects/PizzaOrderApp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/Snacks/30-11-2024 Three Projects/import java.util.Scanner;.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/Snacks/7-11-2024/MbtiPersonalityTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/Snacks/MbtiPersonalityTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/SumOfDigits.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/SumOfNaturalNumbers.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/Value.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/meterConverter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/palindrome.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 4
+}]]></component>
+  <component name="ProjectId" id="2sDU7Wyc6mJYDXrgRnEeooTsOP4" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Downloaded.Files.Path.Enabled": "true",
+    "Repository.Attach.Annotations": "true",
+    "Repository.Attach.JavaDocs": "true",
+    "Repository.Attach.Sources": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/DELL/Desktop/Semicolon Assignments/iLoveProgramming/JavaClass/Snacks/Classwork/bankApp",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-fdfe4dae3a2d-intellij.indexing.shared.core-IU-243.22562.218" />
+        <option value="bundled-js-predefined-d6986cc7102b-deb605915726-JavaScript-IU-243.22562.218" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0e7558d7-7323-445c-a355-dd78e7666e1a" name="Changes" comment="" />
+      <created>1737989471862</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1737989471862</updated>
+      <workItem from="1737989473493" duration="2645000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
